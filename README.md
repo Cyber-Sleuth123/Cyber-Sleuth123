@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cyber-Sleuth123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Bash 
+- 💞️ I’m looking to collaborate on Japanese input in Arch Linux
 - 📫 How to reach me ...email me at cybersleuth123@protonmail.com
 
 <!---
